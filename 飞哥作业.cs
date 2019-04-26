@@ -23,11 +23,11 @@ namespace ConsoleApp1
 				}
 				else
 				{
-					Console.WriteLine($"进行第{i + 1}次比较{max} > {shuzu[i]}最大值为{max}");
+					Console.WriteLine($"进行第{i + 1}次比较{max} > {shuzu[i]}最大值为{max}");//已改
 				}
 
 			}
-			Console.Read();
+			Console.Read();//已阅
 		}
 	}
 }
